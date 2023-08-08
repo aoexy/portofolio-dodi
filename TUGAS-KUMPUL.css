@@ -1,0 +1,95 @@
+.u-section-1 .u-sheet-1 {
+  min-height: 552px;
+}
+
+.u-section-1 .u-text-1 {
+  font-weight: 700;
+  margin: 30px auto 0;
+}
+
+.u-section-1 .u-custom-html-1 {
+  height: auto;
+  min-height: 401px;
+  margin: 55px 65px 13px 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-custom-html-1 {
+    margin-right: 0;
+  }
+} .u-section-2 {
+  background-image: url("https://assets.nicepagecdn.com/321bc01a/5538103/images/network-security.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-2 .u-sheet-1 {
+  min-height: 621px;
+}
+
+.u-section-2 .u-text-1 {
+  font-weight: 700;
+  margin: 22px auto 0;
+}
+
+.u-section-2 .u-group-1 {
+  width: 384px;
+  min-height: 409px;
+  height: auto;
+  background-image: none;
+  margin: 61px auto 60px;
+}
+
+.u-section-2 .u-container-layout-1 {
+  padding: 0;
+}
+
+.u-section-2 .u-image-1 {
+  height: 211px;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.u-section-2 .u-text-2 {
+  text-transform: uppercase;
+  margin: 22px auto 0;
+}
+
+.u-section-2 .u-text-3 {
+  font-size: 1.125rem;
+  margin: 11px auto 0;
+}
+
+.u-section-2 .u-btn-1 {
+  font-weight: 700;
+  margin: 12px auto 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-2 .u-group-1 {
+    height: auto;
+  }
+
+  .u-section-2 .u-image-1 {
+    height: 212px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-2 .u-text-1 {
+    margin-top: 65px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-2 .u-text-1 {
+    margin-top: 22px;
+  }
+
+  .u-section-2 .u-group-1 {
+    width: 340px;
+  }
+
+  .u-section-2 .u-image-1 {
+    height: 188px;
+  }
+}
